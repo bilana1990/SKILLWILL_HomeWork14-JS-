@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.todo {
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.todo-list {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
